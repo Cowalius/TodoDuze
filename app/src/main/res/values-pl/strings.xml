@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_Activity">Dodaj Aktywność</string>
+    <string name="Task_added">Zadanie dodane</string>
+    <string name="task_removed">Zadanie usunięte</string>
+    <string name="empty_string_msg">Podaj tekst, nie możesz podać pustego pola</string>
+</resources>

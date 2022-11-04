@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="RedText" parent="TextAppearance.AppCompat">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:capitalize">characters</item>
+            <item name="android:typeface">monospace</item>
+            <item name="android:textSize">12pt</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#ba160c</item>
+    </style>
+
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#00FF00</item>
+    </style>
+    <style name="PinkText" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff092b0</item>
+    </style>
+
+</resources>

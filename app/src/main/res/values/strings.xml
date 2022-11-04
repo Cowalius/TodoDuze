@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoDuze</string>
+    <string name="Add_Activity">Add Activity</string>
+    <string name="Task_added">Task added</string>
+    <string name="task_removed">Task removed</string>
+    <string name="empty_string_msg">Enter text, you cannot pass empty string!</string>
+</resources>
